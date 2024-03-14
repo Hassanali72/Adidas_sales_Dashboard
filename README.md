@@ -1,1 +1,1 @@
-# Adidas_sales_Dashboard
+In this project, I created an interactive dashboard in Ms Excel to visualize Adidas's sales performance across various regions, product categories, sales methods, and retailers in the US. Users can interact with the dashboard to gain insights into sales trends and identify areas for improvement.
